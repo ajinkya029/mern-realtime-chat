@@ -113,7 +113,7 @@ mern-realtime-chat/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-realtime-chat.git
+git clone https://github.com/ajinkya029/mern-realtime-chat.git
 cd mern-realtime-chat
 ```
 
